@@ -1,2 +1,2 @@
 <?php 
-echo "Hello Universe ";
+echo "Looking for connected website";
